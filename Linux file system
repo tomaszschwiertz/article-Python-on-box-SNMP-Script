@@ -1,0 +1,10 @@
+root@router# run start shell //go into FreeBSD shell
+root@router:/ #
+root@router:/ # cd /var/run/scripts/snmp //change directory to snmp (scripts)
+root@router:/var/run/scripts/snmp # touch snmp_script.py //create a file named “snmp_scripty.py”
+root@router:/var/run/scripts/snmp # vi snmp_script.py //use your favorite editor to write the script
+
+…press [i]
+…copy-paste the script
+[Esc]
+[:wq]
